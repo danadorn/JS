@@ -11,4 +11,4 @@ let resultOfLogicalOR = (n1 < n4) || (n2 == n3);
 console.log(`The result of using logical or: ${resultOfLogicalOR}`);
 
 let resultOfLogicalNOT = !(resultOfLogicalAND);
-console.log(`The result of using logical not: ${resultOfLogicalNOT}`);
+console.log(`The result of using logical not: ${resultOfLogicalNOT}`);logi
